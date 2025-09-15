@@ -12,5 +12,7 @@ public class Main {
         B b = new B();
         b.getSum();
 
+        System.out.println("object oriented programming");
+
     }
 }
